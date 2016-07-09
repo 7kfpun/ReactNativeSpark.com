@@ -1,0 +1,14 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  margin: 0 auto;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+a:link    { color: #616161 }  /* unvisited links */
+a:visited { color: #616161 }  /* visited links   */
+a:hover   { color: #BDBDBD }  /* user hovers     */
+a:active  { color: #616161 }  /* active links    */
